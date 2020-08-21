@@ -1,4 +1,4 @@
-# 🧱 ZipFile-AI2 `Extension`
+# 📦 ZipFile-AI2 `Extension`
 
 Java's ZipFile implementation for App Inventor 2!
 
